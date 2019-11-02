@@ -1,2 +1,2 @@
 # python
-for python programming
+Learn python programming here.
